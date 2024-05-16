@@ -10,6 +10,6 @@ Features
 * Copy generated passwords to clipboard with a single click.
 * Responsive design, suitable for desktop and mobile devices.
 
-Technologies used: React.js
+Technologies used: React.js, HTML, CSS
 
 Visit at : 
