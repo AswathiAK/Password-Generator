@@ -12,4 +12,4 @@ Features
 
 Technologies used: React.js, HTML, CSS
 
-Visit at : 
+Visit at : https://passwordgeneraterandom.netlify.app/
